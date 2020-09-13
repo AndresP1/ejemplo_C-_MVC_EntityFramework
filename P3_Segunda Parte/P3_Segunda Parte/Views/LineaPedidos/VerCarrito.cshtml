@@ -1,0 +1,59 @@
+﻿@model IEnumerable<P3_Segunda_Parte.Models.LineaPedido>
+
+@{
+    ViewBag.Title = "VerCarrito";
+}
+
+<h2>Carrito</h2>
+
+@if (!string.IsNullOrEmpty(TempData["MensajeEliminado"] as string))
+{
+    <div class="alert alert-danger alert-dismissible " role="alert">
+        @TempData["MensajeEliminado"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecioVenta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.ActionLink("Restar", "Restar1", new { id = item.Id }) |
+                @Html.ActionLink("Sumar", "Agregar1", new { id = item.Id }) |
+                @Html.ActionLink("Eliminar", "Eliminar", new { id = item.Id }) |
+
+            </td>
+        </tr>
+    }
+</table>
+@if (Model.Count() > 0)
+{
+    @Html.ActionLink("Finalizar Compra", "FinalizarCompra")
+}
+@Html.ActionLink("Volver", "Listado","Productos")
+
+

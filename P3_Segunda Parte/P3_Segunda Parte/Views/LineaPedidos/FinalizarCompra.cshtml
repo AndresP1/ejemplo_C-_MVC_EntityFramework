@@ -1,0 +1,60 @@
+﻿@model IEnumerable<P3_Segunda_Parte.Models.LineaPedido>
+
+@{
+    ViewBag.Title = "FinalizarCompra";
+}
+
+<h2>ResumenCarrito</h2>
+
+
+@if (!string.IsNullOrEmpty(TempData["usr"] as string))
+{
+    @Html.Label((string)TempData["usr"])
+}
+
+@if (!string.IsNullOrEmpty(TempData["fecha"] as string))
+{
+    @Html.Label((string)TempData["fecha"])
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecioVenta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+
+        </tr>
+    }
+</table>
+
+@if (!string.IsNullOrEmpty(TempData["montoCarrito"] as string))
+{
+    @Html.Label((string)TempData["montoCarrito"])
+}

@@ -1,0 +1,69 @@
+﻿@model IEnumerable<P3_Segunda_Parte.Models.Producto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Productos</h2>
+
+
+@using (Html.BeginForm("Index", "Productos"))
+{
+<fieldset>
+    <legend>Criterios de búsqueda</legend>
+            @Html.DisplayNameFor(model => model.Codigo)
+            @Html.TextBox("cod")
+            @Html.DisplayNameFor(model => model.Nombre)
+            @Html.TextBox("nom")
+            @Html.DisplayNameFor(model => model.Descripcion)
+            @Html.TextBox("desc")<br />
+            @Html.Label("Precio desde:")
+            @Html.TextBox("desde")
+            @Html.Label("Precio hasta:")
+            @Html.TextBox("hasta")
+    <input type="submit" value="Buscar" />
+</fieldset>
+}
+
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecioVenta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecioSugerido)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioSugerido)
+            </td>
+            <td>
+                @Html.ActionLink("Modificar Precio", "Edit", new { id = item.Codigo })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,85 @@
+﻿@model IEnumerable<P3_Segunda_Parte.Models.Producto>
+
+@{
+    ViewBag.Title = "Listado";
+}
+
+<h2>Listado</h2>
+
+@if (!string.IsNullOrEmpty(TempData["MensajeCarrito"] as string))
+{
+    <div class="alert alert-success alert-dismissible " role="alert">
+        <strong>Producto Agregado ! </strong> @TempData["MensajeCarrito"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+
+
+
+@using (Html.BeginForm("Listado", "Productos", FormMethod.Post))
+{
+    <fieldset>
+        <legend>Criterios de búsqueda</legend>
+        <div class="row">
+            <div class="col-md-3">
+                @Html.DisplayNameFor(model => model.Codigo)
+                @Html.TextBox("cod")<br />
+                @Html.DisplayNameFor(model => model.Nombre)
+                @Html.TextBox("nom")
+            </div>
+            <div class="col-md-3">
+                @Html.DisplayNameFor(model => model.Descripcion)
+                @Html.TextBox("desc")<br />
+                @Html.Label("Precio desde:")
+                @Html.TextBox("desde")
+            </div>
+            <div class="col-md-3">
+                @Html.Label("Precio hasta:")
+                @Html.TextBox("hasta")
+            </div>
+            <div class="col-md-3">
+                <br />
+                <input type="submit" value="Buscar" />
+            </div>
+        </div>
+    </fieldset>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecioVenta)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioVenta)
+            </td>
+            <td>
+                @Html.ActionLink("Agregar al carrito", "AgregarAlCarrito", new { id = item.Codigo })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@Html.ActionLink("Ver Carrito", "VerCarrito", "LineaPedidos")
+

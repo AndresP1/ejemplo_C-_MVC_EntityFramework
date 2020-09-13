@@ -1,0 +1,13 @@
+Fabricacion|1|Lampara|Es una lampara.|145|210|*|45|*|*
+Fabricacion|2|Silla|Es una silla.|420|680|*|50|*|*
+Fabricacion|5|Mesa|Es una mesa.|2500|5000|*|60|*|*
+Fabricacion|8|Planta|Es una planta de interior.|60|120|*|60|*|*
+Fabricacion|9|Fertilizante|Es un fertilizante.|20|35|*|180|*|*
+Fabricacion|10|Alfombra|una alfombra de 150 x 100 cm|690|710|*|25|*|*
+Fabricacion|12|defensaFab|lala|10|1000|*|50|*|*
+Importacion|3|Sillon|Es un sillon.|1400|2600|usu1@usuario.com|*|India|500
+Importacion|4|Estante|Es una lampara.|148|210|usu1@usuario.com|*|India|250
+Importacion|6|Cuaderno|Es un cuaderno.|5|20|leo@usuario.com|*|China|20000
+Importacion|7|Lapicera|Es una lapicera.|1|3|leo@usuario.com|*|China|50000
+Importacion|11|Spinner|carlitos , giraalaaa|2|5|*|*|China|1000
+Importacion|15|defensaInp|ewqe|123|123|*|*|China|324

@@ -1,0 +1,230 @@
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\ApplicationInsights.config
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.dll.config
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.pdb
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.exe
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.exe.config
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.rsp
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csi.exe
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csi.rsp
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.AppContext.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.exe
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.exe.config
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.rsp
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\VBCSCompiler.exe
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Antlr3.Runtime.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.SqlServer.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Web.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.ApplicationInsights.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Newtonsoft.Json.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Helpers.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Mvc.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Optimization.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Razor.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Razor.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\WebGrease.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.SqlServer.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Helpers.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Mvc.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Optimization.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Razor.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Razor.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Newtonsoft.Json.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Antlr3.Runtime.pdb
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Web.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda_Parte.Migrations._26NovPedidos.resources
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda_Parte.Migrations._30nov.resources
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.csproj.GenerateResource.cache
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.csproj.CoreCompileInputs.cache
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.csproj.CopyComplete
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.dll
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.pdb
+C:\Users\leope\Documents\Ort\programacion 3\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.dll.config
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.pdb
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda_Parte.Migrations._26NovPedidos.resources
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda_Parte.Migrations._30nov.resources
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.dll
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.pdb
+C:\Users\Usuario\Desktop\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\ApplicationInsights.config
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.dll.config
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\P3_Segunda Parte.pdb
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda_Parte.Migrations._26NovPedidos.resources
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda_Parte.Migrations._30nov.resources
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.dll
+C:\Users\Usuario\Desktop\ort\programacion3\P3_Segunda Parte final\P3_Segunda Parte\P3_Segunda Parte\obj\Debug\P3_Segunda Parte.pdb
